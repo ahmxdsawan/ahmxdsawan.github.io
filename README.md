@@ -8,8 +8,8 @@
 
 
 ## Education
-- BCS, Computer Science Co-op   |University of Guelph (_2021 - 2026_)								       		
-- Minor, Business Studies       |University of Guelph (_2022 - 2026_)	 			        		
+- BCS, Computer Science Co-op|University of Guelph (_2021 - 2026_)								       		
+- Minor, Business Studies|University of Guelph (_2022 - 2026_)	 			        		
 
 
 ## Work Experience
