@@ -1,4 +1,4 @@
-# Computer Scientist
+# Portfolio
 
 #### Programming Languages: C | Python | Java | JavaScript | HTML | CSS | Django | Assembly | C++ (IPR)
 #### Databases: SQL/MySQL
@@ -8,8 +8,8 @@
 
 
 ## Education
-- Bachelor's, Computer Science Co-op | The University of Guelph (_Sept 2021 - April 2026_)								       		
-- Minor, Business Studies       	 | The University of Guelph (_Sept 2022 - April 2026_)	 			        		
+- BCS, Computer Science Co-op| The University of Guelph (_Sept 2021 - April 2026_)								       		
+- Minor, Business Studies    | The University of Guelph (_Sept 2022 - April 2026_)	 			        		
 
 
 ## Work Experience
