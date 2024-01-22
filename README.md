@@ -1,17 +1,22 @@
 # Computer Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Programming Languages: C | Python | Java | JavaScript | HTML | CSS | Django | Assembly | C++ (IPR)
+#### Databases: SQL/MySQL
+#### Tools: GIT | XCode | Docker | GIT | GitHub | GitLab
+#### Cloud: Azure (IPR) | Amazon Web Services (IPR)
+#### Operating Systems: Linux | MacOS | Windows | IOS | iPad OS | Android OS
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Bachelor's, Computer Science Co-op | The University of Guelph (_Sept 2021 - April 2026_)								       		
+- Minor, Business Studies       	 | The University of Guelph (_Sept 2022 - April 2026_)	 			        		
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Document Technical Writer @ Canadian Solar Solutions Inc. (_Sept 2023 – Dec 2023_)**
+- Led creation of instructional docs and videos for CSEye solar monitoring platforms.
+- Trained extensively in CSEye platforms for accurate and user-friendly content.
+- Supported diverse instructional documentation needs for O&M department.
+- Demonstrated strong organizational and technical writing skills.
+- Ensured adherence to ethical standards and health/safety protocols.
+- Collaborated closely with Cybersecurity Analysts to enhance the organization and structure of their documentation, contributing to improved efficiency and clarity in communication.
