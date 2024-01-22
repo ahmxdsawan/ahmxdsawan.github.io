@@ -9,14 +9,14 @@
 
 ## Education
 - BCS, Computer Science Co-op   |University of Guelph (_2021 - 2026_)								       		
-- Minor, Business Studies   |University of Guelph (_2022 - 2026_)	 			        		
+- Minor, Business Studies       |University of Guelph (_2022 - 2026_)	 			        		
 
 
 ## Work Experience
 **Document Technical Writer @ Canadian Solar Solutions Inc. (_Sept 2023 – Dec 2023_)**
-- Led creation of instructional docs and videos for CSEye solar monitoring platforms.
-- Trained extensively in CSEye platforms for accurate and user-friendly content.
-- Supported diverse instructional documentation needs for O&M department.
-- Demonstrated strong organizational and technical writing skills.
+- Led creation of instructional docs and videos for **CSEye solar monitoring platforms**.
+- **Trained** extensively in CSEye platforms for accurate and **user-friendly content**.
+- Supported diverse instructional documentation needs for **O&M department**.
+- Demonstrated strong organizational and **technical writing skills**.
 - Ensured adherence to ethical standards and health/safety protocols.
-- Collaborated closely with Cybersecurity Analysts to enhance the organization and structure of their documentation, contributing to improved efficiency and clarity in communication.
+- Collaborated closely with **Cybersecurity Analysts** to enhance the organization and structure of their documentation, contributing to improved efficiency and clarity in communication.
