@@ -1,10 +1,10 @@
 # Portfolio
 
-#### Programming Languages: C | Python | Java | JavaScript | HTML | CSS | Django | Assembly | C++ (IPR)
-#### Databases: SQL/MySQL
-#### Tools: GIT | XCode | Docker | GIT | GitHub | GitLab
-#### Cloud: Azure (IPR) | Amazon Web Services (IPR)
-#### Operating Systems: Linux | MacOS | Windows | IOS | iPad OS | Android OS
+##### Programming Languages: C | Python | Java | JavaScript | HTML | CSS | Django | Assembly | C++ (IPR)
+##### Databases: SQL/MySQL
+##### Tools: GIT | XCode | Docker | GIT | GitHub | GitLab
+##### Cloud: Azure (IPR) | Amazon Web Services (IPR)
+##### Operating Systems: Linux | MacOS | Windows | IOS | iPad OS | Android OS
 
 
 ## Education
