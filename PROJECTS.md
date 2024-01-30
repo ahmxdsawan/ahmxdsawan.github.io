@@ -38,3 +38,14 @@
 - Sleek User Interface
 - Intuitive Item Addition
 - Dynamic List Display
+
+## [Typescript and HTML Calculator](https://github.com/ahmxdsawan/Typescript-Calculator)
+
+#### This project is a simple calculator created using HTML and TypeScript. It provides basic arithmetic operations with a design reminiscent of a physical calculator. Users can input two numbers and perform calculations using buttons for addition, subtraction, multiplication, division, clear, backspace, and equals. The project utilizes HTML for page structure and TypeScript for logic implementation. Results are dynamically displayed on the page.
+
+#### Features:
+- Addition (+)
+- Subtraction (-)
+- Multiplication (×)
+- Division (÷)
+- Equals (=)
