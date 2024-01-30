@@ -1,6 +1,6 @@
 # Portfolio
 
-##### Programming Languages: C | Python | Java | JavaScript | HTML | CSS | Django | Assembly | C++ (IPR)
+##### Programming Languages: C | Python | Java | JavaScript | HTML | CSS | Django | Assembly | Typescript |C++ (IPR) 
 ##### Databases: SQL/MySQL
 ##### Tools: GIT | XCode | Docker | GIT | GitHub | GitLab
 ##### Cloud: Azure (IPR) | Amazon Web Services (IPR)
