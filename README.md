@@ -6,12 +6,12 @@
 ##### Cloud: Azure (IPR) | Amazon Web Services (IPR)
 ##### Operating Systems: Linux | MacOS | Windows | IOS | iPad OS | Android OS
 
+# [Projects](./PROJECTS.md)
 
 ## Education
 - BCS, Computer Science Co-op   | University of Guelph (_2021 - 2026_)								       		
 - Minor, Business Studies       | University of Guelph (_2022 - 2026_)	 			        		
 
-## [Projects](./PROJECTS.md)
 
 ## Work Experience
 **Document Technical Writer @ Canadian Solar Solutions Inc. (_Sept 2023 – Dec 2023_)**
