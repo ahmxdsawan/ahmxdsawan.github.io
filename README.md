@@ -14,6 +14,13 @@
 
 
 ## Work Experience
+**Full Stack Software Developer @ Recurrent Energy (_May 2024 - Aug 2024_)**
+- Migrated codebase from Angular 13 to Angular 17
+- Redesigned the front-end of the website for an improved user experience
+- Fixed backend logic and developed new functions for enhanced functionality
+- Identified and resolved a major security breach within the system
+- Assisted the analytics department in developing and refactoring Python scripts
+
 **Document Technical Writer @ Canadian Solar Solutions Inc. (_Sept 2023 – Dec 2023_)**
 - Led creation of instructional docs and videos for **CSEye solar monitoring platforms**.
 - **Trained** extensively in CSEye platforms for accurate and **user-friendly content**.
